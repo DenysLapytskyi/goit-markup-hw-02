@@ -194,6 +194,7 @@ body {
 
 .pre-btn-item {
   list-style: none;
+ 
 }
 
 .buttons-item {
@@ -203,8 +204,10 @@ font-size: 16px;
 line-height: 1.6em;
 text-align: center;
 letter-spacing: 0.03em;
-color:var(--secondary-text-color)
+color:var(--secondary-text-color);
+cursor: pointer;
 }
+
 
 .buttons-item:hover,
 .buttons-item:focus {
