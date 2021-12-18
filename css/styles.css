@@ -206,13 +206,15 @@ text-align: center;
 letter-spacing: 0.03em;
 color:var(--secondary-text-color);
 cursor: pointer;
+current
 }
 
 
 .buttons-item:hover,
 .buttons-item:focus {
-  color: var(--links-buttons-text-color);
-  background-color: var(--accent-color);
+color: var(--links-buttons-text-color);
+background-color: var(--accent-color);
+
 }
 
 
